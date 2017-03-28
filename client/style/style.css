@@ -1,0 +1,14 @@
+.error {
+  color: red;
+}
+
+.__list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.__item {
+  padding: .5em .25em;
+  border-bottom: solid 1px #eee;
+}
